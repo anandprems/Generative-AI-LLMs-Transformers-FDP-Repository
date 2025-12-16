@@ -17,22 +17,22 @@ Session Flow (Pedagogical Design)
 
 The FDP content follows a carefully designed learning progression:
 
-**Context & Motivation
-**
+**Context & Motivation**
+
 AI vs ML vs DL vs Transformers vs GenAI
 
 Why RNNs and LSTMs fail at scale
 
-**Core Breakthrough
-**
+**Core Breakthrough**
+
 Attention Is All You Need
 
 Recurrence vs Attention
 
 Spotlight analogy for self-attention
 
-**Transformer Architecture (Intuition-First)
-**
+**Transformer Architecture**
+
 Self-Attention
 
 Multi-Head Attention
@@ -41,14 +41,14 @@ Positional Encoding
 
 Decoder-only LLMs (GPT-style)
 
-**Types of Transformers
-**
+**Types of Transformers**
+
 Encoder-only, Decoder-only, Encoder–Decoder
 
 Vision, Multimodal, Efficient, Domain-specific models
 
-**Hands-On Demos (No Training Required)
-**
+**Hands-On Demos (No Training Required)**
+
 Attention from scratch
 
 Semantic similarity
@@ -59,8 +59,8 @@ Prompt sensitivity
 
 Text classification
 
-**Applications, Limitations & Research Directions
-**
+**Applications, Limitations & Research Directions** 
+
 NLP, Vision, Biomedical signals
 
 Hallucinations, safety, ethics
